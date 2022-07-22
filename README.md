@@ -2,6 +2,7 @@ Na língua inglesa existe algumas métricas de legibilidade, que podem ser calcu
 
 Uma dessas métricas é a Automated readability index, que pode ser calculada a partir da seguinte fórmula:
 <img src="https://s3.amazonaws.com/hr-assets/0/1657713107-bd3f5059f5-ari.png">
+<br>
 Seu objetivo neste desafio é escrever uma função simplificada para calcular o automated readability index. O resultado da fórmula deve ser arredondada para o próximo inteiro e seu valor máximo deve ser 14. Se o resultado da fórmula for, 10,4, por exemplo o retorno da função deve ser 11.
 
 Input Format
